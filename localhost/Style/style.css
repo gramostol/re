@@ -1,0 +1,20 @@
+.container {
+    margin-top: 50px;
+}
+.center-form {
+    margin: 0 auto;
+    max-width: 400px;
+}
+.header-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+.footer i {
+    margin: 0 10px;
+    font-size: 24px;
+}
